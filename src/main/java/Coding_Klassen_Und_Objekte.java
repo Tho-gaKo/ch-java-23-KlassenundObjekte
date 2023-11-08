@@ -7,7 +7,12 @@ public class Coding_Klassen_Und_Objekte {
         sadlyNotMyCar.BuildYear = "2002";
         sadlyNotMyCar.Brand = "Koenigsegg";
 
-        System.out.println("Engine on");
+        isEngineOn();
+
+        }
+        private static boolean isEngineOn() {
+            System.out.println(" Engine turned on ");
+            return true;
 
 
         }
