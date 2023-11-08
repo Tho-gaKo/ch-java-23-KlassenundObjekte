@@ -7,6 +7,9 @@ public class Coding_Klassen_Und_Objekte {
         sadlyNotMyCar.BuildYear = "2002";
         sadlyNotMyCar.Brand = "Koenigsegg";
 
+        System.out.println("Engine on");
+
+
         }
 
 
